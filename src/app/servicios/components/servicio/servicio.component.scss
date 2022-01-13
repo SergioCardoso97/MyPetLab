@@ -1,5 +1,12 @@
+.contrainer-image{
+
+    width: 300px;
+    display: inline-block;
+    padding-left: 20px;
+}
 .img {
     position: relative;
     max-width: 300px;
     max-height: 200px;
+    display: inline;
 }
