@@ -15,9 +15,6 @@ nav > button.active {
     background-color: rgb(223, 173, 205);
     color: white;
 }
-nav > img{
-    height: 45px;
-}
 .container-header{
     width: 100%;
     display: inline-block;
@@ -31,12 +28,20 @@ nav > img{
 .nav-header{
     align-items: center;
     width: 100%;
+    vertical-align: middle;
+    display: table-cell;
+   
 }
 .telefono{
     float: right;
-    height: auto;
+    height: 30px;
 }
 .logoHeader{
    float: left;
    padding-right: 150px;
+   height: 45px;
+}
+.container-header{
+    height: 50px;
+    display: table;
 }
