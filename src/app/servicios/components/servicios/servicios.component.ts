@@ -66,7 +66,7 @@ export class ServiciosComponent implements OnInit {
     },
     {
       id: '12',
-      image: '/assets/images/parasitologia.jpeg',
+      image: '/assets/images/parasitologia.jpg',
       estudio: 'Parasitología'
     },
     {
