@@ -19,11 +19,11 @@ export class ServiciosComponent implements OnInit {
       image: '/assets/images/routine-test-urine-rapid-test-urine-test-strip-2022-01-06-19-16-19-utc.jpg',
       estudio: 'Urianálisis'
     },
-    {
-      id: '3',
-      image: '/assets/images/vacutainer-tubes-for-collecting-blood-samples-duri-2021-09-03-19-47-49-utc.JPG',
-      estudio: 'Bioquímica  '
-    },
+    // {
+    //   id: '3',
+    //   image: '/assets/images/vacutainer-tubes-for-collecting-blood-samples-duri-2021-09-03-19-47-49-utc.JPG',
+    //   estudio: 'Bioquímica  '
+    // },
     {
       id: '4',
       image: '/assets/images/blood-test-sample-tubes-in-a-rack-for-laboratory-b-2021-09-04-09-30-36-utc.jpg',
@@ -66,7 +66,7 @@ export class ServiciosComponent implements OnInit {
     },
     {
       id: '12',
-      image: '/assets/images/medical-research-2021-08-29-01-06-41-utc.jpg',
+      image: '/assets/images/parasitologia.jpeg',
       estudio: 'Parasitología'
     },
     {
