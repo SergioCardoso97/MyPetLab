@@ -9,7 +9,7 @@
     position: absolute;
     top: 50%;
     margin-top: -25px;
-    right: 0;
+    right: 100px;
     height: 80px;
     button {
         padding: 10px;
@@ -28,4 +28,7 @@
     img{
         height: 30px;
     }
+}
+.logo{
+    padding-left: 100px;
 }
