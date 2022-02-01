@@ -23,15 +23,17 @@ h1,h2{
     color: rgb(145, 118, 172);
     font-size: xx-large;
     text-align: center;
+    font-weight: normal;
 }
 h3{
     font-family:Arial, Helvetica, sans-serif;
     font-size: large;
     text-align: center;
+    font-weight: normal;
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+    font-weight: normal;
     font-size: large;
 }
 .content{
@@ -42,4 +44,11 @@ p{
 .content2{
     text-align: justify;
     width: 700px;
+}
+.estudio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: xx-large;
+    color:  black;
+    text-align: center;
 }
