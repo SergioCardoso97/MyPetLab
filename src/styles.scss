@@ -4,7 +4,6 @@
     width: 100%;
     overflow: hidden;
     position: relative;
-    
     img {
         position: absolute;
         width: 100%;
@@ -46,16 +45,22 @@ p{
     text-align: center;
     width: 100%;
     padding-left: 100px;
-    padding-right: 100px;
+    padding-right: 80px;
 }
 .estudio{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
-    font-size: xx-large;
+    font-size: 22px;
     color:  black;
     text-align: center;
+    margin-top: 5px;
 }
 .servicios-grid{
     padding-left: 100px;
     padding-right: 100px;
+}
+.lab{
+    
+    text-align: left;
+    padding-left: 430px;
 }

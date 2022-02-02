@@ -12,7 +12,7 @@ export class ServiciosComponent implements OnInit {
     {
       id: '1',
       image: '/assets/images/Blood Cells.I16.2k.png',
-      estudio: 'Quimica Sanguinea'
+      estudio: 'Química Sanguínea'
     },
     {
       id: '2',
