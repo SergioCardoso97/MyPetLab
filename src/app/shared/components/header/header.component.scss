@@ -7,9 +7,9 @@
 }
 .navegacion{
     position: absolute;
-    top: 50%;
+    top: 65%;
     margin-top: -25px;
-    right: 100px;
+    right: 200px;
     height: 80px;
     button {
         padding: 10px;
@@ -26,8 +26,12 @@
         color: white;
     }
     img{
-        height: 30px;
+        height: 25px;
+        padding-right: 0px;
+        padding-left: 25px;
+        margin-right: 0px;
     }
+
 }
 .logo{
     padding-left: 100px;
