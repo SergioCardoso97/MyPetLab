@@ -1,14 +1,14 @@
 .footer{
     width: 100%;
     background-color: rgb(223, 173, 205);
-    height: 85px;
+    height: 90px;
     position: relative;
 }
 .footer-hijo{
     /* centrar vertical y horizontalmente */
     position: absolute;
     top: 45%;
-    left: 35%;
+    left: 45%;
     margin: -25px 0 0 -25px;
     //
     height: 80px;
@@ -17,8 +17,8 @@
     
     //display: inline-block;
     position: absolute;
-    top: 40%;
-    left: 55%;
+    top: 20%;
+    left: 43%;
     margin: -25px 0 0 -25px;
     height: 30px;
     img{
@@ -27,13 +27,10 @@
         padding-left: 10px;
     }
 }
-.footer-nieto2{
-    display: inline-block;
-    padding-left: 15px;
-    padding-top: 16px;
-}
 .footer-p{
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     text-decoration: none;
     font-size: 15px;
     background-color: rgb(223, 173, 205);
@@ -42,4 +39,19 @@
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+
+}
+.footer-p2{
+    padding-left: 40px;
+    padding-top: 0px;
+    margin-top: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    background-color: rgb(223, 173, 205);
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+
 }
