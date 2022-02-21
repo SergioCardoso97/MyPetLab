@@ -51,7 +51,7 @@ export class ServiciosComponent implements OnInit {
     },
     {
       id: '9',
-      image: '/assets/images/microbiology-laboratory-work-comparing-results-2021-08-26-16-53-24-utc.jpg',
+      image: '/assets/images/histopatologia.jpg',
       estudio: 'Histopatología'
     },
     {
